@@ -1,1 +1,1 @@
-head -n 3 iacta | tail -n 1
+7-file
